@@ -1,5 +1,8 @@
 # Big Data und Infrastruktur
 
+## HINWEIS
+**Alle Folien zu Cloud werden in der Klausur wichtig**
+
 ## Was ist Big Data?
 
 ### Definition / Einführung
@@ -67,6 +70,84 @@
     - Real Time oder Batch Analyse für Prediktionen
         - Real Time Probleme sind Probleme die keine Latenz erlauben (COVID-19, Fraud Detection)
         - Batch erlaubt es zu klären, warum etwas passiert ist und wie sich daraus zukünftige Ereignisse ableiten lassen (Amazon & eBay Kaufempfehlung)
-        
-### HINWEIS
-Alle Folien zu Cloud werden in der Klausur wichtig
+ 
+### Definitionen
+- alle nicht einheitlich
+- KLAUSUR: Definitionen und Gemeinsamkeiten & Unterscheide BD & BI **VERSTEHEN** und **EIGENE RECHERCHEN** | Eigene Beispiel und aktuelle Entwicklung (weniger BI mehr BD Jobs)
+### Big Data
+- BITKOM: Datenmenge (Volume), Datenvielfalt (Variety), Datengeschwindigkeit (Velocity), Erkennen von Zusammenhängen (Analytics)
+    - 3 V's + Analytics
+- Größtenteils Auswertungen auf unstrukturierten Daten
+    
+### Business Intelligence
+- Sammelbegriff für den IT-gestützten Zugriff auf Daten
+- Aus diesem Wissen soll Handlungsentscheidungen des Managements ermöglichen
+- Unterschied zu BD --> strukturierte Daten werden verdichtet für "einfache Antworten"
+
+### Data Science
+- Mischung aus BD & BI
+- Sinnvolle Informationen aus strukturierten Daten aus der BI und den unstrukturierten Daten der BD ziehen
+- Dient ebenfalls der Entscheidungsfindung
+- Zusammenhang BI --> Überschneidungen
+- DS dient eher der Prediktion
+
+## Cloud Computing
+- Def (BSI): Dynamisches Anbieten, Nutzen und Abrechnen von IT-Dienstleistungen
+
+## Unterschiedliche Ansätze der IT
+### Traditionelle IT
+- Sicherheit
+- Effizienz
+- Ruhe & Genauigkeit
+
+### Non-lineare IT
+- Nicht sequentiell
+- Agil, z.T. vieles im Beta-Stadium
+- Hoher Innovationsgrad
+- Unruhe im Sinne von kont. Weiterentwicklung
+
+## Handlungsfelder der Cloud
+- Strategie
+    - Roadmap von OnPrem zu Cloud
+- Architektur & Technologie
+    - Sichere Infrastruktur
+    - u.a. SaaS
+- Migration
+    - Methoden
+    - Vertragsauswahl
+- Datenschutz
+    - Compliance
+    - Anonymisierung
+    - Pers.bezo und F&E-Daten
+- Datensicherheit
+    - Verschlüsselung
+    - Schutz vor Zugriff Dritter
+- Governance
+    - Mitarbeiter & Skills
+    - Motivation / Mindset
+    
+## 4 Säulen der Digitalisierung
+- Zukunftsorientierte Mensch-Maschine Interaktion
+- Ganzheitliche Integrationsarchitekturen
+- Effektive Analytics & Business Insights
+- Reaktionsfähige hybride Infrastrukturen
+
+## Cloud Modelle
+### IaaS
+Infrastructure as a Service
+- Rechner und Speicherkapzitäten werden gemietet
+- Zielgruppe: Kunden die Hardwarekosten sparen wollen
+
+### PaaS
+Platform as a Service
+- Laufzeitumgebung für Webanwendungen, Test- oder Entwicklungsumgebungen
+- Zielgruppe: Kunden, die schnell Umgebungen benötigen, diese aber nicht vorhalten wollen
+
+### SaaS
+Software as a Service
+- Software on Demand, pay as you use
+- standardisierte Software (Dropbox, Office365)
+- Kunden die Software nur nutzen möchten und keine Verantwortung über SLA oä. haben möchten
+
+### Grad der Integration
+IaaS --> PaaS --> SaaS
