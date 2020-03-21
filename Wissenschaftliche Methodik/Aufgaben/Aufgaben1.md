@@ -68,3 +68,12 @@ Tag 4 auf 5: 7,45%
 
 Durchschnitt = 1/4 x (6,83 + 8,14 + 1,08 + 7,45) = 5,88% Steigerung pro Tag
 
+## A.4
+Kurt Krömer fährt mit seinem Mini von Berlin nach Prenzlau (etwa 100 km) mit einer Durchschnittsgeschwindigkeit von 80 km/h. Anschließend fährt er mit durchschnittlich 120 km/h von Prenzlau nach Berlin und legt dabei ebenfalls 100 km zurück. Wie schnell fuhr er im Schnitt?
+
+## Antwort A.4
+
+## A.5
+Als Mitarbeiter der Stiftung Warentest haben Sie zur Aufgabe, die Toleranzen bei einem Schokoriegelhersteller zu überprüfen. Hierfür haben Sie bei zehn unterschiedlichen Lieferanten je einen Schokoriegel bestellt.
+
+## Antwort A.5

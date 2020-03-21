@@ -50,3 +50,23 @@
   - eBay: 100 PB
   - NSA: 28 PB
   - Facebook: 0,6 PB
+  
+ ## Landscape
+ 4 Kategorien von Daten
+ - Infrastruktur
+    - Prozess und Speicherung, ggf. auch Analyse von Daten
+ - Integration
+    - Analyse auf mehreren Ebenen
+ - Engineering
+    - Monetarisierung 
+ - MISSING
+ 
+## Typen der Datenanalyse
+- Kundenprobleme
+    - Business Sense of Data
+    - Real Time oder Batch Analyse für Prediktionen
+        - Real Time Probleme sind Probleme die keine Latenz erlauben (COVID-19, Fraud Detection)
+        - Batch erlaubt es zu klären, warum etwas passiert ist und wie sich daraus zukünftige Ereignisse ableiten lassen (Amazon & eBay Kaufempfehlung)
+        
+### HINWEIS
+Alle Folien zu Cloud werden in der Klausur wichtig
