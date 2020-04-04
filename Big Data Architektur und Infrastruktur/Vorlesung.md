@@ -134,20 +134,57 @@
 
 ## Cloud Modelle
 ### IaaS
-Infrastructure as a Service
+_Infrastructure as a Service_
 - Rechner und Speicherkapzitäten werden gemietet
 - Zielgruppe: Kunden die Hardwarekosten sparen wollen
 
 ### PaaS
-Platform as a Service
+_Platform as a Service_
 - Laufzeitumgebung für Webanwendungen, Test- oder Entwicklungsumgebungen
 - Zielgruppe: Kunden, die schnell Umgebungen benötigen, diese aber nicht vorhalten wollen
 
 ### SaaS
-Software as a Service
+_Software as a Service_
 - Software on Demand, pay as you use
 - standardisierte Software (Dropbox, Office365)
 - Kunden die Software nur nutzen möchten und keine Verantwortung über SLA oä. haben möchten
 
 ### Grad der Integration
 IaaS --> PaaS --> SaaS
+
+
+
+## Cloud-Typen (KLAUSUR)
+### Private Cloud
+- Kunde betreibt die Cloud
+- Services werden nur für die interne Nutzung bereitgestellt
+- hohe Investitionkosten
+- **Interne-IT mit Cloud-Mechanismen**
+
+### Public Cloud
+- nicht öffentlich für alle, sondern von jedem "mietbar"
+- Zahlung nach Nutzung, sehr geringe Investitionskosten
+- **komplett ausgelagerte IT**
+
+### Hybrid Cloud
+- Mischform
+- meist auf das wesentliche konzentriert
+
+## Virtualisierung in der Cloud
+- ermöglicht maßgeschneiderte Server
+- Linux das meist-virtualisierte System in der Azure Cloud
+
+## Faktoren für die Entscheidung für eine Cloud
+- Ausfallsicherheit
+- Produktivität
+- Flexibilität
+- Datenschutz und -sicherheit
+- Kosten
+- Externe Abhängigkeit  
+
+## Self-Managed vs. Provider Managed (KLAUSUR)
+4 Bereiche zu vergleichen
+- Betrieb
+- Security
+- Kontrolle
+- Hochverfügbarkeit
