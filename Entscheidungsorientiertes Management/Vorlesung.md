@@ -71,3 +71,63 @@ Exkurs: https://file.fom.de/som
   - Der Verlust von einem Besitz wiegt schlimmer als dem "Nichterhalt"
   - Bespiel: Wenn man 2000€ geschenkt bekommt neigt man eher ins Risiko (1000€ verlieren oder alles behalten) als von vornherein 500€ abzugeben (Experiment Glücksspiel)
   - Co² Steuer Australien
+
+### Priming-Effekte
+
+- Halo-Effekt
+  - Eigenschaften die zuerst genannt (oben stehen) werden haben einen höheren Effekt
+- Anker-Effekt
+  - Zahl im Raum, andere Zahlen die vorkommen werden beeinflusst
+    - War Ghandi älter als 144, danach die Frage wie alt er war wird immer höher geschätzt
+    - Im Supermarkt: "Maximal 10 Dosen", Tendenz mehr Dosen zu kaufen als geplant
+- Trickfragen
+  - Zehnmal "weiß", dann fragen: "Was trinkt die Kuh?"
+- Intrinsische Motivation
+  - Motivation "aus sich heraus"
+- Extrinsische Motivation
+  - z.B. Bonuszahlungen (intrinsische sinkt)
+
+### Verfügbarkeitsheuristik
+
+- Häufigkeit wird danach geschätzt, wie schnell einem ein Beispiel einfällt
+  - "Abrufleichtigkeit"
+
+### Selbstvertrauensillusion
+
+- Unwissende Leute tendieren dazu sich zu überschätzen, Experten sich zu unterschätzen
+  - 80% der Autofahren meinen, sie fahren überdurchschnittlich gut
+- Berg der Ignoranz
+
+### Konjunktionsfehlschluss
+
+- Plausibiltät ersetzt Wahrscheinlichkeit
+  - Etwas was plausibler erscheint wird eher gewählt als das sinnvollere
+    - Bsp. Preis von 4 Tassen + 1 defekter Tell < Tassen
+
+### Kompetenzillusion
+
+- 1 Mio Emails mit Kursvorhersagen
+  - 250K steigt / 250k fällt
+  - danach wieder Split, jeweils 125K steigt / 125K fällt
+  - Jede weitere Woche immer splitten
+  - Nach 10 Wochen hat ein kleiner Teil 10 richtige Kursvorhersagen --> große Kompetenz?
+
+- Berater die lange dabei sind = kompetent, weil er sonst kein Berater mehr wäre?
+  - Antwort: Die anderen, die es nicht mehr sind, sind ja nicht mehr sichtbar
+
+### Bestätigungsfehler
+
+- Horoskope: Leute erkennen sich wieder, wenn Ihnen gesagt wurde, es ist für sie
+- Plain Packaging: Zigaretten schmecken anders mit "Schockpackungen".
+  - Begründung der Menschen: Inhalt geändert
+  - in Wirklichkeit hat die bunte Glitzerpackung einen Einfluss darauf, wie Zigaretten wahrgenommen werden
+
+### Rückschaufehler
+
+- Schätzung, dann Lösung, dann Erinnerung an Schätzung immer "besser"
+
+### Regression zum Mittelwert
+
+- Besondere herausragende Messungen sorgen dafür, dass danach die Ergebnisse "normaler" werden
+  - z.B. schreit eine Trainer einen Spieler an, der heute extrem schlecht gespielt hat. Danach spielt er besser. Es war aber nicht das Anschreien, sondern der Fakt, dass das schlechte Spiel eine Ausnahme war
+- Kein Ursache-Wirkungs-Verhältnis
