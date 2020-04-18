@@ -188,3 +188,40 @@ IaaS --> PaaS --> SaaS
 - Security
 - Kontrolle
 - Hochverfügbarkeit
+
+## Datenbanken
+- Markt verlagert sich in Open Source
+
+### Gründe für RDS
+- Einfach einzuarbeiten
+- schnell und skalierbar
+- verfügbar und langlebig
+- sicher
+- kostengünstig
+
+## Was ist ein Data Lake?
+- entkoppelte Speicherung und Berechnung
+- schnelle Übernahme und Transformation
+- sichere Mandantenfähigkeit
+
+### Welche Varianten der Umsetzung gibt es
+- Cloud
+- HDP/NoSQL Cluster
+- (R)DBMS
+
+## Big Data Architektur
+![Bid Data in the Real World](Bilder/big_data_architektur_praxis.jpg)
+
+### Lift & Shift
+- Einzelne Applikationen werden von OnPrem in die Cloud "gehoben"
+- Vorteile:
+    - Standardisierung
+    - Nutzung einiger Cloud-Vorteile
+    - Geringere Betriebskosten
+- Nachteile:
+    - Migrationsrisiko
+    - Nicht alle Cloud-Vorteile
+    - Nicht alle Technologien möglich
+- Anwendungsfelder:
+    - Unternehmensapplikationen
+    - Spezielle Applikationen
