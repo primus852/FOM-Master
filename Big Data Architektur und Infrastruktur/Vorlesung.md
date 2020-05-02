@@ -212,7 +212,7 @@ IaaS --> PaaS --> SaaS
 ## Big Data Architektur
 ![Bid Data in the Real World](Bilder/big_data_architektur_praxis.jpg)
 
-### Lift & Shift
+### Lift & Shift (46/47 Klausur!)
 - Einzelne Applikationen werden von OnPrem in die Cloud "gehoben"
 - Vorteile:
     - Standardisierung
@@ -225,3 +225,38 @@ IaaS --> PaaS --> SaaS
 - Anwendungsfelder:
     - Unternehmensapplikationen
     - Spezielle Applikationen
+    
+## Datenverarbeitung
+- Scale Up & Scale Out
+### Scale Up
+- vertikal
+- mehr RAM, CPU, HDD, etc.
+- imitieren des Großrechnersystems
+- keine lineare Skalierung (n neue CPU != n-fache neue Leistung)
+
+### Scale Out
+- horizontal
+- gleiche Hardware über Netzwerk verbunden (Clustering)
+- Vendor Lock (schwer anderen Anbieter zu wechseln)
+- höhere Kosten
+
+### Arten von Daten
+- strukturiert
+- semi-strukturiert
+- unstrukturiert
+
+### Datenstrom
+- Folge von Daten-Tupeln
+- Daten bewegen sich (Data ist moving)
+- Kontinuierlich generiert
+- z.B. Sensoren, Real-Time Analyse Aktienmarkt, WebShop
+
+## CAP-Theorem
+- BASE Ansatz, Basically Available Soft State and Eventual Constistency
+    - Unschärfeansatz
+- ACID Ansatz, Atomicity Consistancy, Isolation and Durability (RDBMS Umfeld)
+- Vergleich ACID / BASE Folie 39
+- Kann nicht allem gerecht werden, Verfügbarkeit, Ausfalltoleranz, Konsistenz stehen in "Konkurrenz"
+
+## Datenschutz
+- meh
