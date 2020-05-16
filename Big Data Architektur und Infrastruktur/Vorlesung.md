@@ -18,21 +18,25 @@
   - (Veracity, Uncertainty of Data)
   - (Value)
 - Volume
+  - Die Menge der Daten
   - Most Companies have 100TB each
   - 2.3 Billionen GB every day
   - 6 Mrd. have a cellphone
   - 40 Zettabytes created 2020
 - Velocity
+  - Der "Ursprung" von Daten
   - Modern Cars 100 Sensors
   - 1TB NYSE Data every day
   - 19 Mrd. Network Connections each day
 - Variety
+  - Die "Arten" von Daten
   - 150 Exabytes in Healthcare
   - 30 Mrd. Posts auf Facebook jeden Monat
   - 400 Mio Tweets jeden Tag (200 Mio aktive User pro Monat)
   - 420 Mio Wearables (Smartwatch etc.)
   - 4+ Mrd. Videos jeden Monat auf Youtube geschaut
 - Veracity
+  - Die "Qualität" der Daten
   - 1/3 Business Leaders don't trust information for decision making
   - 27% of Respondents in one survey where unsure how much of their data was inaccurate
   - Poor Data Quality costs the U.S. 3.1 Billionen Dollar / Jahr
@@ -62,7 +66,8 @@
     - Analyse auf mehreren Ebenen
  - Engineering
     - Monetarisierung 
- - MISSING
+ - Analytics
+    - Generierung von Nutzen/Mehrwert durch Analyse von Daten
  
 ## Typen der Datenanalyse
 - Kundenprobleme
@@ -132,7 +137,8 @@
 - Effektive Analytics & Business Insights
 - Reaktionsfähige hybride Infrastrukturen
 
-## Cloud Modelle
+## Cloud Modelle (WICHTIG KLAUSUR, Folien 49 - 55)
+_vermutlich noch mehr als hier steht_
 ### IaaS
 _Infrastructure as a Service_
 - Rechner und Speicherkapzitäten werden gemietet
@@ -154,7 +160,7 @@ IaaS --> PaaS --> SaaS
 
 
 
-## Cloud-Typen (KLAUSUR)
+## Cloud-Typen (KLAUSUR, Folie 56)
 ### Private Cloud
 - Kunde betreibt die Cloud
 - Services werden nur für die interne Nutzung bereitgestellt
@@ -251,7 +257,7 @@ IaaS --> PaaS --> SaaS
 - Kontinuierlich generiert
 - z.B. Sensoren, Real-Time Analyse Aktienmarkt, WebShop
 
-## CAP-Theorem
+## CAP-Theorem (nicht Klausur)
 - BASE Ansatz, Basically Available Soft State and Eventual Constistency
     - Unschärfeansatz
 - ACID Ansatz, Atomicity Consistancy, Isolation and Durability (RDBMS Umfeld)
@@ -259,4 +265,6 @@ IaaS --> PaaS --> SaaS
 - Kann nicht allem gerecht werden, Verfügbarkeit, Ausfalltoleranz, Konsistenz stehen in "Konkurrenz"
 
 ## Datenschutz
-- meh
+- nicht Teil der Klausur, aber ggf. wird vorausgesetzt, dass die DSGVO bekannt ist.
+
+## Folie 66 MALEN KÖNNEN!!!
